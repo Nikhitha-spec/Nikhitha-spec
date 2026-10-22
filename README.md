@@ -1,187 +1,244 @@
-<!-- HEADER -->
-
 <div align="center">
 
-# Nikhitha Talari
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nikhitha%20Talari&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20%7C%20Full-Stack%20Development%20%7C%20Innovation&descSize=17&descAlignY=62&color=0:2563EB,50:7C3AED,100:06B6D4" width="100%" alt="Nikhitha Talari — AI and Full-Stack Developer" />
 
-### AI Application Developer · Full-Stack Developer
+<a href="https://github.com/Nikhitha-spec">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://portfolio-opal-kappa-s3rnwpimqp.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nikhitha-talari/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Building intelligent applications through software engineering, Generative AI, and thoughtful user experiences.
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/nikhitha-talari/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-opal-kappa-s3rnwpimqp.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Nikhitha-spec">
-    <img src="https://img.shields.io/badge/GitHub-Projects-0F172A?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:6D28D9,100:0891B2&height=3" width="100%" alt="Gradient divider" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Developing+Full-Stack+Solutions;Exploring+Generative+AI+%26+RAG;Turning+Ideas+Into+Working+Software" alt="Animated developer introduction" />
 
 </div>
 
-## About Me
+---
 
-I'm a Computer Science undergraduate interested in building practical software solutions with AI and modern web technologies. I enjoy working across the development stack, from designing user interfaces and building APIs to integrating AI models into real-world applications.
+## 👋 Hello, World!
 
-- **Currently exploring:** Generative AI, Retrieval-Augmented Generation (RAG), and Agentic AI
-- **Development focus:** Full-stack applications, AI integrations, and backend engineering
-- **Recognition:** Best UI Award at HackBeyondLimits
-- **Buildathon:** Selected for the NxtWave × OpenAI Regional Buildathon
-- **Goal:** Build reliable, useful, and well-engineered software
+I'm a Computer Science undergraduate passionate about creating **useful software at the intersection of AI and full-stack development**.
 
-## Featured Projects
+I enjoy building applications from the ground up — designing intuitive interfaces, developing backend services, integrating AI capabilities, and turning ideas into working products.
+
+<details>
+<summary><b>✨ A little more about me</b></summary>
+
+- 🤖 Exploring Generative AI, RAG, and Agentic AI.
+- 💻 Building projects with Python, React, and modern backend technologies.
+- 🏆 Best UI Award recipient at HackBeyondLimits.
+- 🚀 Selected for the NxtWave × OpenAI Regional Buildathon.
+- ☁️ ServiceNow CSA and CAD certified.
+- 🌱 Continuously learning through projects, collaboration, and experimentation.
+
+</details>
+
+## 🚀 Projects That Define My Journey
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### MusicChamps
+<h3>🎵 MusicChamps</h3>
 
-An AI-powered music coaching application that analyzes musical performances and provides feedback on pitch, rhythm, and tempo.
+<img src="https://img.shields.io/badge/AI-Powered-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Domain-Music-DB2777?style=flat-square" />
 
-**Focus areas:** AI integration · Audio analysis · User experience
+An AI music coach that analyzes performances and provides feedback on pitch, rhythm, and tempo.
 
-<a href="https://github.com/Nikhitha-spec/MusicChamps">
-  <img src="https://img.shields.io/badge/Explore%20Repository-2563EB?style=flat-square&logo=github&logoColor=white" />
-</a>
+**What makes it interesting:** Applying AI to a creative, real-world use case.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### Reflecta
-
-A privacy-conscious mental wellness platform supporting anonymous expression, voice journaling, and access to wellness resources.
-
-**Focus areas:** Privacy-aware design · Web development · User experience
-
-<a href="https://github.com/Nikhitha-spec/Reflecta">
-  <img src="https://img.shields.io/badge/Explore%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### YoLearn Campus
-
-A student-focused learning and upskilling platform recognized for its user interface design.
-
-**Recognition:** Best UI Award · HackBeyondLimits
-
-<a href="https://github.com/Nikhitha-spec/YoLearn-Campus">
-  <img src="https://img.shields.io/badge/Repository-2563EB?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://yo-learn-campus-pjh47dsdv-nikhitha-talaris-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-059669?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+<a href="https://github.com/Nikhitha-spec/MusicChamps"><b>↗ Explore Repository</b></a>
 
 </td>
 <td width="50%" valign="top">
 
-### ComplianceGPT
+<h3>💜 Reflecta</h3>
 
-An AI-assisted compliance review system designed to process documents, retrieve supporting evidence, and verify claims.
+<img src="https://img.shields.io/badge/Focus-Privacy-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-Web-6366F1?style=flat-square" />
 
-**Focus areas:** RAG · Document processing · Workflow orchestration
+An anonymous mental wellness platform featuring journaling, supportive conversations, and wellness resources.
 
-*Development in progress*
+**What makes it interesting:** Privacy-conscious product design and meaningful user experiences.
+
+<br/>
+
+<a href="https://github.com/Nikhitha-spec/Reflecta"><b>↗ Explore Repository</b></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AI Fake News Detector
+<h3>🎓 YoLearn Campus</h3>
+
+<img src="https://img.shields.io/badge/Recognition-Best%20UI-F59E0B?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-EdTech-059669?style=flat-square" />
+
+A student-focused learning and upskilling platform built to make exploring learning opportunities easier.
+
+**Achievement:** Best UI Award at HackBeyondLimits.
+
+<br/>
+
+<a href="https://github.com/Nikhitha-spec/YoLearn-Campus"><b>↗ Repository</b></a> ·
+<a href="https://yo-learn-campus-pjh47dsdv-nikhitha-talaris-projects.vercel.app/"><b>Live Demo ↗</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛡️ ComplianceGPT</h3>
+
+<img src="https://img.shields.io/badge/AI-RAG-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square" />
+
+An AI-assisted compliance review system designed to process documents, retrieve evidence, and verify claims.
+
+**Focus:** Document intelligence, evidence retrieval, and workflow orchestration.
+
+<br/>
+
+<em>Currently in development</em>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔎 AI Fake News Detector</h3>
 
 An application that evaluates news credibility using AI-assisted analysis and fact-checking integrations.
 
-**Technologies:** Python · FastAPI · MongoDB · Firebase
-
-<a href="https://github.com/Nikhitha-spec">
-  <img src="https://img.shields.io/badge/View%20GitHub-0F172A?style=flat-square&logo=github&logoColor=white" />
-</a>
+`Python` `FastAPI` `MongoDB` `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-### DocVault
+<h3>📚 DocVault</h3>
 
-A Django-based document management application designed to organize and manage digital documents.
+A document management application focused on organizing and managing digital files.
 
-**Focus areas:** Backend development · Document management
-
-<a href="https://github.com/Nikhitha-spec">
-  <img src="https://img.shields.io/badge/View%20GitHub-0F172A?style=flat-square&logo=github&logoColor=white" />
-</a>
+`Python` `Django`
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/Nikhitha-spec?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-Explore%20Repositories-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/Nikhitha-spec?tab=repositories">
+<img src="https://img.shields.io/badge/Discover%20More%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </p>
 
-## Technical Skills
+---
+
+## 🧩 My Technical Toolkit
 
 <div align="center">
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, Java, JavaScript, TypeScript, SQL |
-| **Frontend** | HTML, CSS, React.js, Tailwind CSS |
-| **Backend** | Django, FastAPI, Node.js, REST APIs |
-| **Databases** | PostgreSQL, MySQL, MongoDB, SQLite |
-| **AI & ML** | Generative AI, RAG, LangGraph, Computer Vision |
-| **Tools** | Git, GitHub, VS Code, Vercel, Make.com |
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript, and TypeScript" />
+
+### Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,django,fastapi,nodejs" alt="Frontend and backend technologies" />
+
+### Databases & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,git,github,vscode,vercel" alt="Databases and developer tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-DB2777?style=for-the-badge" />
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,django,fastapi,nodejs,mongodb,postgres,git,github&perline=6" alt="Technology icons" />
-</p>
+## 🏆 Milestones & Recognition
 
-## Achievements & Certifications
+<table>
+<tr>
+<td align="center" width="33%">
 
-- **Best UI Award** — HackBeyondLimits, YoLearn Campus
-- **NxtWave × OpenAI Regional Buildathon** — Selected participant
-- **HACKFORGE** — Volunteer at a 48-hour hackathon
-- **ServiceNow Certified System Administrator (CSA)**
-- **ServiceNow Certified Application Developer (CAD)**
-- **Problem Solving** — LeetCode practice
+### 🥇
 
-## GitHub Activity
+**Best UI Award**
+
+<br/>
+
+HackBeyondLimits
+
+</td>
+<td align="center" width="33%">
+
+### 🚀
+
+**Regional Buildathon**
+
+<br/>
+
+NxtWave × OpenAI
+
+</td>
+<td align="center" width="33%">
+
+### ☁️
+
+**ServiceNow Certified**
+
+<br/>
+
+CSA & CAD
+
+</td>
+</tr>
+</table>
+
+Also volunteered at HACKFORGE, a 48-hour hackathon, helping participants troubleshoot development challenges.
+
+## 📈 GitHub at a Glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikhitha-spec&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=7C3AED&text_color=64748B" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Nikhitha-spec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=22D3EE&text_color=E5E7EB&rank_icon=github" alt="GitHub profile statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitha-spec&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=64748B" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhitha-spec&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E5E7EB" alt="Most-used programming languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Nikhitha-spec&hide_border=true&background=0D1117&ring=818CF8&fire=22D3EE&currStreakLabel=818CF8&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub contribution streak" width="70%" />
 
 </div>
 
-## Let's Connect
+## 🌱 What I'm Building Toward
 
-I'm interested in connecting with developers, collaborating on meaningful projects, and exploring software development and AI engineering opportunities.
+- **AI engineering:** Developing practical AI features and exploring agentic workflows.
+- **Software engineering:** Strengthening API design, backend architecture, and database fundamentals.
+- **Product development:** Creating reliable, intuitive applications that solve actual problems.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhitha-talari/">LinkedIn</a> ·
-  <a href="https://portfolio-opal-kappa-s3rnwpimqp.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/Nikhitha-spec">GitHub</a>
-</p>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:6D28D9,100:0891B2&height=3" width="100%" alt="Gradient divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=120&section=footer" width="100%" alt="Blue and violet gradient footer" />
 
-*Building with purpose. Learning continuously. Engineering better solutions.*
+### Let's build something meaningful. ✨
+
+<a href="https://www.linkedin.com/in/nikhitha-talari/">LinkedIn</a> ·
+<a href="https://portfolio-opal-kappa-s3rnwpimqp.vercel.app/">Portfolio</a> ·
+<a href="https://github.com/Nikhitha-spec">GitHub</a>
+
+<sub>Learn continuously. Build thoughtfully. Improve every day.</sub>
 
 </div>
