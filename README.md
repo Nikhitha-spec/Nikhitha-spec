@@ -1,26 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Nikhitha%20Talari&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=AI%20%7C%20Full-Stack%20Development%20%7C%20Innovation&descSize=17&descAlignY=62&color=0:2563EB,50:7C3AED,100:06B6D4" width="100%" alt="Nikhitha Talari — AI and Full-Stack Developer" />
-
-<a href="https://github.com/Nikhitha-spec">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://portfolio-opal-kappa-s3rnwpimqp.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/nikhitha-talari/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:7C3AED&height=200&section=header&text=Nikhitha%20Talari&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=AI%20APPLICATIONS%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=15&descAlignY=65&descColor=E0E7FF" width="100%" alt="Nikhitha Talari — AI and Full-Stack Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Developing+Full-Stack+Solutions;Exploring+Generative+AI+%26+RAG;Turning+Ideas+Into+Working+Software" alt="Animated developer introduction" />
+### Turning ideas into intelligent, practical software.
+
+I build AI-powered applications and full-stack solutions using modern web technologies, backend systems, and Generative AI.
+
+<br/>
+
+<a href="https://github.com/Nikhitha-spec">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://portfolio-opal-kappa-s3rnwpimqp.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nikhitha-talari/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-DBEAFE?style=flat-square&labelColor=1D4ED8&color=DBEAFE" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Full--Stack-Development-EDE9FE?style=flat-square&labelColor=6D28D9&color=EDE9FE" alt="Full-Stack Development" />
+<img src="https://img.shields.io/badge/Always-Learning-D1FAE5?style=flat-square&labelColor=047857&color=D1FAE5" alt="Always learning" />
 
 </div>
 
 ---
 
-## 👋 Hello, World!
+
+---
+
+## 👋 Hello!
 
 I'm a Computer Science undergraduate passionate about creating **useful software at the intersection of AI and full-stack development**.
 
